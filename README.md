@@ -6,7 +6,7 @@ As a Full stack developer, I have knowledge about HTML, CSS, Responsive, JavaScr
 
 Skills:  REACT/NODE/MONGODB/EXPRESS / JS / HTML / CSS
 
-- 🔭 I’m currently working on https://blogproject-1a32f.web.app/ 
+- 🔭 I’m currently working on [https://blogproject-1a32f.web.app/](https://blogingsite25.web.app/) 
 - 🌱 I’m currently learning Typescript 
 - 👯 I’m looking to collaborate on github 
 
